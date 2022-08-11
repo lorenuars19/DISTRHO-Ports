@@ -48,7 +48,7 @@ option('build-juce5-only',
 
 option('build-juce6-only',
     type: 'boolean',
-    value: false,
+    value: true,
     description: 'Build only juce6 libraries and plugins',
 )
 
